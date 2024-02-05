@@ -9,7 +9,7 @@ The data used in this project is sourced from the Open Government Data(OGD) Plat
 ## Methodology
 The analysis is conducted using Python with libraries such as Pandas for data manipulation and Matplotlib and Seaborn for data visualization.
 ## Results
-The results of the analysis will be presented in the form of interactive charts and tables, highlighting the key findings about the inflation trends in India.
+You can view the results of the analysis [here]()
 
 ## How to Run the Project
 Instructions on how to run the analysis on your local machine:
